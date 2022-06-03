@@ -1,0 +1,9 @@
+#img-bg{
+    background-image: url('https://blog.ciaathletica.com.br/wp-content/uploads/2020/05/Grupo-de-corrida-4-segredos-para-escolher-o-seu-2.png');
+
+    min-height: 695px;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}

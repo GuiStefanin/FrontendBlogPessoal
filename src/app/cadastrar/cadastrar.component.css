@@ -1,0 +1,9 @@
+#img-bg{
+    background-image: url('https://images.squarespace-cdn.com/content/v1/5c94eaaba9ab950b1b87a3f0/1585260187968-Y9OG258Q8VFMKE8JDZED/Blog.E.jpg?format=1000w');
+
+    min-height: 695px;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
